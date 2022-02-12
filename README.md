@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @maley-typek
+- 👀 I’m interested in ...
+  - Economics
+  - Finance
+- 🌱 I’m currently learning ...
+  - Custom windows OS instalation
